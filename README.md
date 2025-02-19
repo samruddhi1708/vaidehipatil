@@ -1,1 +1,211 @@
-# vaidehipatil
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Page Title</title>
+
+<style>
+
+h1 {
+
+text-align: center;
+
+}
+
+table, th, td {
+
+  border: 1px solid white;
+
+  border-collapse: collapse;
+
+}
+
+th {
+
+  background-color: pink
+
+  color:#ffffff;
+
+}
+
+td {
+
+  background-color: pink
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+
+
+<h1 style="center">SEM 1 Marksheet 2024</h1>
+
+<p><b>Student Name:</b> Vaidehi Ajit Patil 
+
+<br>
+
+<b>Seat No:</b> 4173B038</p>
+
+
+
+<table style="width:100%">
+
+  <tr >
+
+    <th>SUB CODE</th>
+
+    <th>SUBJECT</th>
+
+    <th>MARKS</th>
+
+    <th>AVERAGE</th>
+
+    <th>RESULT</th>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUVE105</td>
+
+    <td>BUSINESS ENVIROMENNT</td>
+
+    <td>42.00</td>
+
+    <td>90.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUVFVS101</td>
+
+    <td>BUSINESS MATHEMATICS</td>
+
+    <td>68.00</td>
+
+    <td>68.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+   <tr>
+
+    <td>VGVUIKS102</td>
+
+    <td>ANCIENT INDIAN CULTURE</td>
+
+    <td>37.00</td>
+
+    <td>74.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+   <tr>
+
+    <td>VGVUFAE101</td>
+
+    <td>BUSINESS COMMUNICATION - 1</td>
+
+    <td>38.00</td>
+
+    <td>76.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+   <tr>
+
+    <td>VGVUOE113</td>
+
+    <td>BASIC OF PHYSICS</td>
+
+    <td>84.00</td>
+
+    <td>84.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUCFMFA101</td>
+
+    <td>FINANCIAL ACCOUNTING -I</td>
+
+    <td>80.00</td>
+
+    <td>80.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUCFMCA101</td>
+
+    <td>COST ACCOUNTING - I</td>
+
+    <td>78.00</td>
+
+    <td>78.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUFSE101</td>
+
+    <td>INFORMATION TECHNOLOGY -I</td>
+
+    <td>81.00</td>
+
+    <td>81.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+  <tr>
+
+    <td>VGVUCC101</td>
+
+    <td>CULTURAL</td>
+
+    <td>47.00</td>
+
+    <td>94.00</td>
+
+    <td>PASS</td>
+
+  </tr>
+
+</table>
+
+<br>
+
+<h3>SGPA= 8.73 CGPA= 8.73</h3>
+
+<h2>RESULT= PASS</h2>
+
+<hr>
+
+</body>
+
+</html>
