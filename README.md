@@ -1,7 +1,4 @@
 
-<! DOCTYPE html>
-<p style= color:white ></p>
-
 <html>
 
 <head>
