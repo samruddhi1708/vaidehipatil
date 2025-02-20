@@ -25,7 +25,7 @@ th {
 
   background-color: red
 
-  color:#ffffff;
+  color:#ffffoo;
 
 }
 
