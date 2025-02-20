@@ -23,7 +23,7 @@ table, th, td {
 
 th {
 
-  background-color: pink
+  background-color: red
 
   color:#ffffff;
 
