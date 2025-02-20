@@ -23,9 +23,9 @@ table, th, td {
 
 th {
 
-  background-color: red
+  background-color: pink
 
-  color:#ffffoo;
+  color:#ffffff;
 
 }
 
